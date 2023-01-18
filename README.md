@@ -1,2 +1,4 @@
 # WEBSITE-FIGMA-PROCESS
 WEBSITE FIGMA PROCESS
+
+![WEBSITE FIGMA PROCESS](https://user-images.githubusercontent.com/93940739/213171085-788d11d6-b327-4d55-abdf-e5c26c28fabc.png)
